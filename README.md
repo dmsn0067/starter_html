@@ -1,2 +1,2 @@
 # starter_html
-This is a starter site for students
+This is a starter HTML page for students.
